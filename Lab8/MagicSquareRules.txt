@@ -1,0 +1,11 @@
+Start:
+Choose
+- Bottom Row
+- Middle Column
+
+Rules:
+Move
+- One down, one right
+- IF not available, move up instead
+
+If off the grid size, loop around using %
